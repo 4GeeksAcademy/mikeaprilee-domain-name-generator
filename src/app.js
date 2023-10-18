@@ -6,7 +6,7 @@ import "./assets/img/rigo-baby.jpg";
 import "./assets/img/4geeks.ico";
 
 window.onload = function () {
-  let domainName = '<h1 class="text-center" style="margin-top: 30px;">Dominios</h1>' +
+  let domainName = '<h1 class="text-center" style="margin-top: 30px;">Domains</h1>' +
     '<div class="container text-center mt-5"> <div class="col-md-12 ms-12">' +
     '<ul class="list-group list-group-flush">'
   '<footer class="mt-auto">' + '<p>This proyect is made by Michael.</p>';
